@@ -1,0 +1,10 @@
+td,th{
+    text-align: center;
+}
+#add{
+    float: right;
+}
+.btn{
+    margin-left: 15px;
+    margin-right: 15px;
+}
